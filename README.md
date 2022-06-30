@@ -1,9 +1,9 @@
-# Final-Project
+# Final Project - Hotel Booking Cancelation
 Purwadhika Data Science Final Project
 
 Hotel Booking Cancelation Prediction
 
- file:///home/exe/Downloads/avt.jpg
+![avt](https://user-images.githubusercontent.com/94034809/176711402-931ab22b-7074-4d19-b26e-595231f59016.jpg)
 
 The hotel booking dataset is used to understand what customer characteristics that is likely to cancel. Furthermore, these features is used for machine learning training in predicting cancelation so hotel owners can mitigate costumers that is likely to cancel. It would be very helpful for the hotel management to have a model that can predict if a guests will cancel and also know what factors made a guest cancels, so they can manage it easier especially in high peak seasons.
 
