@@ -1,5 +1,5 @@
-# Final Project - Hotel Booking Cancelation
-Purwadhika Data Science Final Project
+## **`Purwadhika Data Science Final Project`**
+## **`Hotel Booking Cancelation Predictions`**
 
 Hotel Booking Cancelation Prediction
 
